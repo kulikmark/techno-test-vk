@@ -25,15 +25,15 @@
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/ipad-ipad.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad1.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad2.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad3.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad4.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad5.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad6.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad7.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad-ipad8.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad1.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad2.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad3.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad4.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad5.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad6.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad7.png" width="200"></td>
+    <td align="center"><img src="screenshots/ipad8.png" width="200"></td>
   </tr>
 </table>
 
@@ -41,12 +41,12 @@
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/iphone-iphone.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone-iphone1.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone-iphone2.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone-iphone3.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone-iphone4.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone-iphone5.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone1.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone2.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone3.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone4.png" width="200"></td>
+    <td align="center"><img src="screenshots/iphone5.png" width="200"></td>
   </tr>
 </table>
 
