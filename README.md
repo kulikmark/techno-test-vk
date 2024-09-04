@@ -26,7 +26,6 @@
 <table>
   <tr>
     <td align="center"><img src="screenshots/ipad.png" width="200"></td>
-    <td align="center"><img src="screenshots/ipad1.png" width="200"></td>
     <td align="center"><img src="screenshots/ipad2.png" width="200"></td>
     <td align="center"><img src="screenshots/ipad3.png" width="200"></td>
     <td align="center"><img src="screenshots/ipad4.png" width="200"></td>
@@ -42,7 +41,6 @@
 <table>
   <tr>
     <td align="center"><img src="screenshots/iphone.png" width="200"></td>
-    <td align="center"><img src="screenshots/iphone1.png" width="200"></td>
     <td align="center"><img src="screenshots/iphone2.png" width="200"></td>
     <td align="center"><img src="screenshots/iphone3.png" width="200"></td>
     <td align="center"><img src="screenshots/iphone4.png" width="200"></td>
